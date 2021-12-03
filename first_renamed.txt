@@ -1,0 +1,8 @@
+This is version 1 of my project
+
+I want to this go into commit 2
+
+i changed 
+askS
+
+this is from master
